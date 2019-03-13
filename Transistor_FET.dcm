@@ -2232,4 +2232,10 @@ K P-Channel MOSFET
 F http://www.vishay.com/docs/70209/70209.pdf
 $ENDCMP
 #
+$CMP FDG6306P
+D PMOS.2 20V 250mA 0R63 1.5Vth SOT-363-6
+K P-Channel Dual MOSFET
+F https://www.onsemi.com/pub/Collateral/FDG6306P-D.PDF
+$ENDCMP
+#
 #End Doc Library
