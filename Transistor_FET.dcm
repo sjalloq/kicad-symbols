@@ -2668,6 +2668,8 @@ $CMP ZXMN6A07F
 D 1.4A Id, 60V Vds, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET
 F http://www.diodes.com/assets/Datasheets/ZXMN6A07F.pdf
+$ENDCMP
+#
 $CMP FDG6306P
 D PMOS.2 20V 250mA 0R63 1.5Vth SOT-363-6
 K P-Channel Dual MOSFET
